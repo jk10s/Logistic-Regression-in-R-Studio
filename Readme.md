@@ -1,1 +1,1 @@
-Logistic Regression in R Studio
+Logistic Regression in R Studio.
